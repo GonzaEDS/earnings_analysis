@@ -1,6 +1,6 @@
 # Earnings Data Analysis
 
-This repository contains a script to analyze earnings data from Outlier, combining them into a single DataFrame and generating various visualizations and summary statistics.
+This repository contains a script to analyze earnings data from Outlier, combining data from multiple pay cycles into a single DataFrame and generating various visualizations and summary statistics
 
 ## Requirements
 
