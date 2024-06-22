@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ### Example
 ![alt File Structure Example](https://i.imgur.com/NTtPlpP.png)
 
-Replace the file `this_pay_cycle.csv` for the new version or the new finished cycle to update the stats
+Replace the file `this_pay_cycle.csv` for the new version or the new finished cycle to update the stats.
 
 ## Script Details
 
