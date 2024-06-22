@@ -27,7 +27,7 @@ pip install -r requirements.txt
 .
 ├── pay-periods/         # Folder containing the CSV files with earnings data
 ├── combined_earnings.csv  # Output file containing combined earnings data
-├── earnings_analysis.py   # Script for processing data and generating visualizations
+├── earnings_analysis.ipynb   # Script for processing data and generating visualizations
 ├── requirements.txt       # List of required Python packages
 └── README.md              # This README file
 ```
