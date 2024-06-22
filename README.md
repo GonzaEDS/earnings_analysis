@@ -18,8 +18,8 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Place your earnings data CSV files in a folder named `pay-periods`.
-2. Run the script `earnings_analysis.py` to process the data and generate the visualizations.
+1. Place your earnings data CSV files in the folder named `pay-periods`.
+2. Run the first cell in `earnings_analysis.ipynb` to process the data and generate the visualizations.
 
 ## File Structure
 
@@ -31,6 +31,10 @@ pip install -r requirements.txt
 ├── requirements.txt       # List of required Python packages
 └── README.md              # This README file
 ```
+### Example
+![alt File Structure Example](https://i.imgur.com/NTtPlpP.png)
+
+Replace the file `this_pay_cycle.csv` for the new version or the new finished cycle to update the stats
 
 ## Script Details
 
