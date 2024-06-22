@@ -10,17 +10,35 @@ The following Python packages are required to run the script:
 - matplotlib==3.7.1
 - seaborn==0.12.2
 
-You can install these packages using the provided `requirements.txt` file:
+### Setting Up a Virtual Environment
 
-```bash
-pip install -r requirements.txt
-```
+It's recommended to create a virtual environment to manage dependencies and avoid conflicts with other projects. You can set up a virtual environment as follows:
 
-## Usage
+1. Create a virtual environment:
 
-1. Place your earnings data CSV files in the folder named `pay-periods`.
-2. Run the first cell in `earnings_analysis.ipynb` to process the data and generate the visualizations.
+   ```bash
+   python -m venv venv
+   ```
 
+2. Activate the virtual environment:
+
+   - On Windows:
+
+     ```bash
+     venv\Scripts\activate
+     ```
+
+   - On macOS and Linux:
+
+     ```bash
+     source venv/bin/activate
+     ```
+
+3. Install the required packages using the provided `requirements.txt` file:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
 ## File Structure
 
 ```
